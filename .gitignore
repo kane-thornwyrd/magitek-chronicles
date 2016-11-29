@@ -1,7 +1,8 @@
+*.dat
 asm
 assets
 config/VanillaMagic
-craash-reports
+crash-reports
 downloads
 logs
 mods
